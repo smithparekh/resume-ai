@@ -11,3 +11,5 @@ Tech stack:
 Current features:
 ✔ Resume PDF upload
 ✔ Resume text extraction
+✔ Resume Score
+✔ Resume Metircs
